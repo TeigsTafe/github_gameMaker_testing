@@ -1,0 +1,20 @@
+# GameMaker options
+options/
+
+# GameMaker resource order
+*.resource_order
+
+# GameMaker notes
+notes/
+
+# YYP Maker files
+___yyp_maker_trash
+
+# GMLive files
+*GMLive*
+*obj_gmlive*
+
+# Stitch files
+.stitch
+stitch.config.json
+tmp
